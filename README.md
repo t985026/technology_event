@@ -1,9 +1,3 @@
----
-title: 活動說明
-tags: [Work]
-
----
-
 # Technology Event
 
 [![hackmd-github-sync-badge](https://hackmd.io/6rjijz5JSG6L0EnxAQGb-w/badge)](https://hackmd.io/6rjijz5JSG6L0EnxAQGb-w)
